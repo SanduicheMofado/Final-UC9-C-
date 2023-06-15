@@ -1,0 +1,56 @@
+C:\Users\thiago.fscanabarro\Desktop\Nova pasta (2)\projetofinal\bin\Debug\netcoreapp3.1\projetofinal.exe
+C:\Users\thiago.fscanabarro\Desktop\Nova pasta (2)\projetofinal\bin\Debug\netcoreapp3.1\projetofinal.deps.json
+C:\Users\thiago.fscanabarro\Desktop\Nova pasta (2)\projetofinal\bin\Debug\netcoreapp3.1\projetofinal.runtimeconfig.json
+C:\Users\thiago.fscanabarro\Desktop\Nova pasta (2)\projetofinal\bin\Debug\netcoreapp3.1\projetofinal.runtimeconfig.dev.json
+C:\Users\thiago.fscanabarro\Desktop\Nova pasta (2)\projetofinal\bin\Debug\netcoreapp3.1\projetofinal.dll
+C:\Users\thiago.fscanabarro\Desktop\Nova pasta (2)\projetofinal\bin\Debug\netcoreapp3.1\projetofinal.pdb
+C:\Users\thiago.fscanabarro\Desktop\Nova pasta (2)\projetofinal\obj\Debug\netcoreapp3.1\projetofinal.csproj.AssemblyReference.cache
+C:\Users\thiago.fscanabarro\Desktop\Nova pasta (2)\projetofinal\obj\Debug\netcoreapp3.1\projetofinal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thiago.fscanabarro\Desktop\Nova pasta (2)\projetofinal\obj\Debug\netcoreapp3.1\projetofinal.AssemblyInfoInputs.cache
+C:\Users\thiago.fscanabarro\Desktop\Nova pasta (2)\projetofinal\obj\Debug\netcoreapp3.1\projetofinal.AssemblyInfo.cs
+C:\Users\thiago.fscanabarro\Desktop\Nova pasta (2)\projetofinal\obj\Debug\netcoreapp3.1\projetofinal.csproj.CoreCompileInputs.cache
+C:\Users\thiago.fscanabarro\Desktop\Nova pasta (2)\projetofinal\obj\Debug\netcoreapp3.1\projetofinal.dll
+C:\Users\thiago.fscanabarro\Desktop\Nova pasta (2)\projetofinal\obj\Debug\netcoreapp3.1\projetofinal.pdb
+C:\Users\thiago.fscanabarro\Desktop\Nova pasta (2)\projetofinal\obj\Debug\netcoreapp3.1\projetofinal.genruntimeconfig.cache
+C:\Users\thiago.fscanabarro\Documents\Visual Studio 2019\projetos\Nova pasta (2)\projetofinal\bin\Debug\netcoreapp3.1\projetofinal.exe
+C:\Users\thiago.fscanabarro\Documents\Visual Studio 2019\projetos\Nova pasta (2)\projetofinal\bin\Debug\netcoreapp3.1\projetofinal.deps.json
+C:\Users\thiago.fscanabarro\Documents\Visual Studio 2019\projetos\Nova pasta (2)\projetofinal\bin\Debug\netcoreapp3.1\projetofinal.runtimeconfig.json
+C:\Users\thiago.fscanabarro\Documents\Visual Studio 2019\projetos\Nova pasta (2)\projetofinal\bin\Debug\netcoreapp3.1\projetofinal.runtimeconfig.dev.json
+C:\Users\thiago.fscanabarro\Documents\Visual Studio 2019\projetos\Nova pasta (2)\projetofinal\bin\Debug\netcoreapp3.1\projetofinal.dll
+C:\Users\thiago.fscanabarro\Documents\Visual Studio 2019\projetos\Nova pasta (2)\projetofinal\bin\Debug\netcoreapp3.1\projetofinal.pdb
+C:\Users\thiago.fscanabarro\Documents\Visual Studio 2019\projetos\Nova pasta (2)\projetofinal\obj\Debug\netcoreapp3.1\projetofinal.csproj.AssemblyReference.cache
+C:\Users\thiago.fscanabarro\Documents\Visual Studio 2019\projetos\Nova pasta (2)\projetofinal\obj\Debug\netcoreapp3.1\projetofinal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thiago.fscanabarro\Documents\Visual Studio 2019\projetos\Nova pasta (2)\projetofinal\obj\Debug\netcoreapp3.1\projetofinal.AssemblyInfoInputs.cache
+C:\Users\thiago.fscanabarro\Documents\Visual Studio 2019\projetos\Nova pasta (2)\projetofinal\obj\Debug\netcoreapp3.1\projetofinal.AssemblyInfo.cs
+C:\Users\thiago.fscanabarro\Documents\Visual Studio 2019\projetos\Nova pasta (2)\projetofinal\obj\Debug\netcoreapp3.1\projetofinal.csproj.CoreCompileInputs.cache
+C:\Users\thiago.fscanabarro\Documents\Visual Studio 2019\projetos\Nova pasta (2)\projetofinal\obj\Debug\netcoreapp3.1\projetofinal.dll
+C:\Users\thiago.fscanabarro\Documents\Visual Studio 2019\projetos\Nova pasta (2)\projetofinal\obj\Debug\netcoreapp3.1\projetofinal.pdb
+C:\Users\thiago.fscanabarro\Documents\Visual Studio 2019\projetos\Nova pasta (2)\projetofinal\obj\Debug\netcoreapp3.1\projetofinal.genruntimeconfig.cache
+C:\Users\thiago.fscanabarro\Desktop\projetointregador\projetofinalUC9\bin\Debug\netcoreapp3.1\projetofinal.exe
+C:\Users\thiago.fscanabarro\Desktop\projetointregador\projetofinalUC9\bin\Debug\netcoreapp3.1\projetofinal.deps.json
+C:\Users\thiago.fscanabarro\Desktop\projetointregador\projetofinalUC9\bin\Debug\netcoreapp3.1\projetofinal.runtimeconfig.json
+C:\Users\thiago.fscanabarro\Desktop\projetointregador\projetofinalUC9\bin\Debug\netcoreapp3.1\projetofinal.runtimeconfig.dev.json
+C:\Users\thiago.fscanabarro\Desktop\projetointregador\projetofinalUC9\bin\Debug\netcoreapp3.1\projetofinal.dll
+C:\Users\thiago.fscanabarro\Desktop\projetointregador\projetofinalUC9\bin\Debug\netcoreapp3.1\projetofinal.pdb
+C:\Users\thiago.fscanabarro\Desktop\projetointregador\projetofinalUC9\obj\Debug\netcoreapp3.1\projetofinal.csproj.AssemblyReference.cache
+C:\Users\thiago.fscanabarro\Desktop\projetointregador\projetofinalUC9\obj\Debug\netcoreapp3.1\projetofinal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thiago.fscanabarro\Desktop\projetointregador\projetofinalUC9\obj\Debug\netcoreapp3.1\projetofinal.AssemblyInfoInputs.cache
+C:\Users\thiago.fscanabarro\Desktop\projetointregador\projetofinalUC9\obj\Debug\netcoreapp3.1\projetofinal.AssemblyInfo.cs
+C:\Users\thiago.fscanabarro\Desktop\projetointregador\projetofinalUC9\obj\Debug\netcoreapp3.1\projetofinal.csproj.CoreCompileInputs.cache
+C:\Users\thiago.fscanabarro\Desktop\projetointregador\projetofinalUC9\obj\Debug\netcoreapp3.1\projetofinal.dll
+C:\Users\thiago.fscanabarro\Desktop\projetointregador\projetofinalUC9\obj\Debug\netcoreapp3.1\projetofinal.pdb
+C:\Users\thiago.fscanabarro\Desktop\projetointregador\projetofinalUC9\obj\Debug\netcoreapp3.1\projetofinal.genruntimeconfig.cache
+C:\Users\thiago.fscanabarro\source\repos\projetofinalUC9\bin\Debug\netcoreapp3.1\projetofinal.exe
+C:\Users\thiago.fscanabarro\source\repos\projetofinalUC9\bin\Debug\netcoreapp3.1\projetofinal.deps.json
+C:\Users\thiago.fscanabarro\source\repos\projetofinalUC9\bin\Debug\netcoreapp3.1\projetofinal.runtimeconfig.json
+C:\Users\thiago.fscanabarro\source\repos\projetofinalUC9\bin\Debug\netcoreapp3.1\projetofinal.runtimeconfig.dev.json
+C:\Users\thiago.fscanabarro\source\repos\projetofinalUC9\bin\Debug\netcoreapp3.1\projetofinal.dll
+C:\Users\thiago.fscanabarro\source\repos\projetofinalUC9\bin\Debug\netcoreapp3.1\projetofinal.pdb
+C:\Users\thiago.fscanabarro\source\repos\projetofinalUC9\obj\Debug\netcoreapp3.1\projetofinal.csproj.AssemblyReference.cache
+C:\Users\thiago.fscanabarro\source\repos\projetofinalUC9\obj\Debug\netcoreapp3.1\projetofinal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thiago.fscanabarro\source\repos\projetofinalUC9\obj\Debug\netcoreapp3.1\projetofinal.AssemblyInfoInputs.cache
+C:\Users\thiago.fscanabarro\source\repos\projetofinalUC9\obj\Debug\netcoreapp3.1\projetofinal.AssemblyInfo.cs
+C:\Users\thiago.fscanabarro\source\repos\projetofinalUC9\obj\Debug\netcoreapp3.1\projetofinal.csproj.CoreCompileInputs.cache
+C:\Users\thiago.fscanabarro\source\repos\projetofinalUC9\obj\Debug\netcoreapp3.1\projetofinal.dll
+C:\Users\thiago.fscanabarro\source\repos\projetofinalUC9\obj\Debug\netcoreapp3.1\projetofinal.pdb
+C:\Users\thiago.fscanabarro\source\repos\projetofinalUC9\obj\Debug\netcoreapp3.1\projetofinal.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "iHtYyUYL809ONJ+aJlVTzr+g1aFNL1xpHkPObWCve20hzvJCas7dNwnxptOmDT/840K+/0PTKJ2MeJMjTcx2Aw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\thiago.fscanabarro\\source\\repos\\projetofinalUC9\\projetofinal.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\thiago.fscanabarro\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\thiago.fscanabarro\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\thiago.fscanabarro\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\thiago.fscanabarro\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.32\\microsoft.netcore.app.host.win-x64.3.1.32.nupkg.sha512"
+  ],
+  "logs": []
+}
